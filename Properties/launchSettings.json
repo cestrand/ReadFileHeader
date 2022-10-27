@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReadFileHeader": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    }
+  }
+}
